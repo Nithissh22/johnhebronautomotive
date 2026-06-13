@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120">
+  <g transform="translate(20, 20)">
+    <circle cx="40" cy="40" r="34" fill="none" stroke="#2D2D2D" stroke-width="7"/>
+    <circle cx="28" cy="50" r="7.5" fill="#2D2D2D"/>
+    <path d="M 38 22 L 54 48 A 7.5 7.5 0 0 1 42 56 L 26 30 A 7.5 7.5 0 0 1 38 22 Z" fill="#2D2D2D"/>
+  </g>
+  <text x="125" y="75" font-family="'Inter', 'Segoe UI', sans-serif" font-weight="900" font-size="46" fill="#2D2D2D" letter-spacing="3.5">ATHER</text>
+</svg>
