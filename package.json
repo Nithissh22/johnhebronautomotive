@@ -1,0 +1,10 @@
+{
+  "name": "johnhebronautomotive",
+  "private": true,
+  "scripts": {
+    "install": "npm --prefix \"Hebron Automotive Manufacturing\" install",
+    "dev": "npm --prefix \"Hebron Automotive Manufacturing\" run dev",
+    "build": "npm --prefix \"Hebron Automotive Manufacturing\" run build",
+    "preview": "npm --prefix \"Hebron Automotive Manufacturing\" run preview"
+  }
+}

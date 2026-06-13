@@ -1,4 +1,3 @@
-import React from 'react';
 import {
   LineChart, Line, BarChart, Bar, PieChart, Pie, Cell,
   XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer
@@ -68,7 +67,7 @@ export default function Analytics() {
                     paddingAngle={5}
                     dataKey="value"
                   >
-                    {capacityData.map((entry, index) => (
+                    {capacityData.map((_, index) => (
                       <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
                     ))}
                   </Pie>
